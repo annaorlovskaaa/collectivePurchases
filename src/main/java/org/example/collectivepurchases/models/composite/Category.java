@@ -4,8 +4,7 @@ import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
-import CategoryComponent;
-import Component;
+
 
 import java.util.ArrayList;
 import java.util.List;
